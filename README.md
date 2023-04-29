@@ -11,7 +11,7 @@ This is a preview code for a Garage Management System. This Garage Management is
 
 **Server:** Node, Express
 
-**Databse:** MySQL
+**Database:** MySQL
 
 
 
